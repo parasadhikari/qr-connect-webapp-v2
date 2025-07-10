@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+qrcode
+python-multipart
+pyzbar
+Pillow
